@@ -1,7 +1,7 @@
 # Bug-Bounty-Automation
 
 
-![Uploading bbr.png…]()
+<img src="[/path/to/img.jpg](https://miro.medium.com/v2/resize:fit:1358/0*L8zwW4gb0l5AbRj_.jpg)" alt="Alt text" >
 
 Bash Script to perform bug bounty automation
 

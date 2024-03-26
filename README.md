@@ -1,7 +1,6 @@
 # Bug-Bounty-Automation
 
 
-<img src="[/path/to/img.jpg](https://miro.medium.com/v2/resize:fit:1358/0*L8zwW4gb0l5AbRj_.jpg)" alt="Alt text" >
 
 Bash Script to perform bug bounty automation
 
@@ -14,7 +13,7 @@ Bash Script to perform bug bounty automation
 
 <b>Scope</b> - It will give us a viewpoint of how ethical hackers detect vulnerabilities in web applications, mobile apps and other platforms using various tools and scripts.
 
-<b>Implementation</b> - In this project, we need to automate the tools or scripts so that all tasks are performed in a single instance on the target website. For this there are two methods – bash script and python. I have gone with the bash methodology. For bash scripting we will need to install Golang language to automate multiple script lines in a single shell script file. Requirement gathering is to be done first by selecting tools that will help in quick recon of the target website providing valid understandable output. The bash script will loop multiple scripts to run the recon tools line by line and the output of each tool will be stored in a text file.
+<b>Implementation</b> - In this project, we need to automate the tools or scripts so that all tasks are performed in a single instance on the target website. For this, there are two methods – bash script and python. I have gone with the bash methodology. For bash scripting we will need to install Golang language to automate multiple script lines in a single shell script file. Requirement gathering is to be done first by selecting tools that will help in quick recon of the target website providing valid understandable output. The bash script will loop multiple scripts to run the recon tools line by line and the output of each tool will be stored in a text file.
 
 <b> vi install.sh
   chmod +x install.sh
